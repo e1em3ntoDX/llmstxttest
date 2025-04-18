@@ -1,0 +1,1033 @@
+# Website
+
+> Generated website index
+
+## Officefileapi
+
+- [IMessageBoxService.ShowYesNoMessage(String) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.IMessageBoxService.ShowYesNoMessage(System.String)): Developer documentation for all DevExpress products.
+
+- [IObjectDataSourceValidationService Interface | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.IObjectDataSourceValidationService): Developer documentation for all DevExpress products.
+
+- [IObjectDataSourceValidationService Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.IObjectDataSourceValidationService._members): Developer documentation for all DevExpress products.
+
+- [IObjectDataSourceValidationService Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.IObjectDataSourceValidationService._methods): Developer documentation for all DevExpress products.
+
+- [IObjectDataSourceValidationService.Validate(IEnumerable&lt;ObjectDataSource&gt;) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.IObjectDataSourceValidationService.Validate(System.Collections.Generic.IEnumerable-DevExpress.DataAccess.ObjectBinding.ObjectDataSource-)): Developer documentation for all DevExpress products.
+
+- [ISpreadsheetCommandFactoryService Interface | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.ISpreadsheetCommandFactoryService): Developer documentation for all DevExpress products.
+
+- [ISpreadsheetCommandFactoryService Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.ISpreadsheetCommandFactoryService._members): Developer documentation for all DevExpress products.
+
+- [ISpreadsheetCommandFactoryService Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.ISpreadsheetCommandFactoryService._methods): Developer documentation for all DevExpress products.
+
+- [ISpreadsheetCommandFactoryService.CreateCommand(SpreadsheetCommandId) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.ISpreadsheetCommandFactoryService.CreateCommand(DevExpress.XtraSpreadsheet.Commands.SpreadsheetCommandId)): Developer documentation for all DevExpress products.
+
+- [OfficeChartsCrossPlatformExtensions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.OfficeChartsCrossPlatformExtensions): Developer documentation for all DevExpress products.
+
+- [OfficeChartsCrossPlatformExtensions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.OfficeChartsCrossPlatformExtensions._members): Developer documentation for all DevExpress products.
+
+- [OfficeChartsCrossPlatformExtensions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.OfficeChartsCrossPlatformExtensions._methods): Developer documentation for all DevExpress products.
+
+- [OfficeChartsCrossPlatformExtensions.ActivateCrossPlatformCharts(OfficeCharts) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.OfficeChartsCrossPlatformExtensions.ActivateCrossPlatformCharts(DevExpress.Office.Services.OfficeCharts)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommandFactoryServiceWrapper Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.SpreadsheetCommandFactoryServiceWrapper): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommandFactoryServiceWrapper Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.SpreadsheetCommandFactoryServiceWrapper._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommandFactoryServiceWrapper Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.SpreadsheetCommandFactoryServiceWrapper._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommandFactoryServiceWrapper Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.SpreadsheetCommandFactoryServiceWrapper._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommandFactoryServiceWrapper.CreateCommand(SpreadsheetCommandId) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.SpreadsheetCommandFactoryServiceWrapper.CreateCommand(DevExpress.XtraSpreadsheet.Commands.SpreadsheetCommandId)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommandFactoryServiceWrapper(ISpreadsheetCommandFactoryService) Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.SpreadsheetCommandFactoryServiceWrapper.-ctor(DevExpress.XtraSpreadsheet.Services.ISpreadsheetCommandFactoryService)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommandFactoryServiceWrapper Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.SpreadsheetCommandFactoryServiceWrapper.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommandFactoryServiceWrapper.Service Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.Services.SpreadsheetCommandFactoryServiceWrapper.Service): Developer documentation for all DevExpress products.
+
+- [ShowSelectionMode Enum | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.ShowSelectionMode): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions.AllowHide Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions.AllowHide): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions.AllowRotate Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions.AllowRotate): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions.AllowStagger Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions.AllowStagger): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetAxisLabelOverlappingOptions.MinIndent Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetAxisLabelOverlappingOptions.MinIndent): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.CellEditor Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.CellEditor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Column Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Column): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Comment Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Comment): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Copy Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Copy): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.CopyAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.CopyAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.CreateNew Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.CreateNew): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.CreateNewAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.CreateNewAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Cut Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Cut): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.CutAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.CutAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.DataValidation Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.DataValidation): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.DefaultMaxZoomFactor Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.DefaultMaxZoomFactor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.DefaultMinZoomFactor Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.DefaultMinZoomFactor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Drag Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Drag): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.DragAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.DragAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Drawing Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Drawing): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Drop Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Drop): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.DropAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.DropAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Encrypt Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Encrypt): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.EncryptAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.EncryptAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.FillHandle Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.FillHandle): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.FreezePanes Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.FreezePanes): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.FreezePanesAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.FreezePanesAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.FunctionNameCulture Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.FunctionNameCulture): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Group Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Group): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.LocalizeBooleanValues Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.LocalizeBooleanValues): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.MaxZoomFactor Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.MaxZoomFactor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.MinZoomFactor Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.MinZoomFactor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.MoveRange Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.MoveRange): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.MoveRangeAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.MoveRangeAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.OfficeScrolling Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.OfficeScrolling): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.OfficeScrollingAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.OfficeScrollingAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Open Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Open): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.OpenAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.OpenAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Paste Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Paste): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.PasteAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.PasteAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Print Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Print): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.PrintAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.PrintAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Protection Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Protection): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Row Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Row): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Save Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Save): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.SaveAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.SaveAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.SaveAs Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.SaveAs): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.SaveAsAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.SaveAsAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.SaveButtonAlwaysEnabled Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.SaveButtonAlwaysEnabled): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Selection Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Selection): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.ShowPopupMenu Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.ShowPopupMenu): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.ShowPopupMenuAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.ShowPopupMenuAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Touch Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Touch): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.TouchAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.TouchAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.UseSkinColors Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.UseSkinColors): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Worksheet Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Worksheet): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.Zooming Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.Zooming): Developer documentation for all DevExpress products.
+
+- [SpreadsheetBehaviorOptions.ZoomingAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetBehaviorOptions.ZoomingAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEditEventArgs Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEditEventArgs): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEditEventArgs Fields | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEditEventArgs._fields): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEditEventArgs Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEditEventArgs._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEditEventArgs Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEditEventArgs._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEventArgs Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEventArgs): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEventArgs Fields | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEventArgs._fields): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEventArgs Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEventArgs._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEventArgs Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEventArgs._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEventArgs Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEventArgs._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellCancelEventArgs.Cancel Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellCancelEventArgs.Cancel): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEditorBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEditorBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEditorBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEditorBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEditorBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEditorBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEditorBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEditorBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEditorBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEditorBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEditorBehaviorOptions.CommitMode Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEditorBehaviorOptions.CommitMode): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEditorBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEditorBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEditorBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEditorBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgs Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgs): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgs Fields | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgs._fields): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgs Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgs._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgs Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgs._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgs Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgs._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgs.Action Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgs.Action): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgs.OldFormula Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgs.OldFormula): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgs.OldFormulaInvariant Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgs.OldFormulaInvariant): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgs.OldValue Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgs.OldValue): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase Fields | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase._fields): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase.Cell Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase.Cell): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase.ColumnIndex Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase.ColumnIndex): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase.Formula Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase.Formula): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase.FormulaInvariant Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase.FormulaInvariant): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase.RowIndex Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase.RowIndex): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase.SheetName Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase.SheetName): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase.Value Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase.Value): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellEventArgsBase.Worksheet Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellEventArgsBase.Worksheet): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellOptions.AutoFitMergedCellRowHeight Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellOptions.AutoFitMergedCellRowHeight): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellOptions.CopyFrom(SpreadsheetCellOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellOptions.CopyFrom(DevExpress.XtraSpreadsheet.SpreadsheetCellOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellOptions.KeepCellAlignmentOnShowFormulas Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellOptions.KeepCellAlignmentOnShowFormulas): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellValidatingEventArgs Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellValidatingEventArgs): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellValidatingEventArgs Fields | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellValidatingEventArgs._fields): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellValidatingEventArgs Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellValidatingEventArgs._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellValidatingEventArgs Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellValidatingEventArgs._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellValidatingEventArgs Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellValidatingEventArgs._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellValidatingEventArgs(Worksheet, Int32, Int32, String) Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellValidatingEventArgs.-ctor(DevExpress.XtraSpreadsheet.Model.Worksheet-System.Int32-System.Int32-System.String)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellValidatingEventArgs Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellValidatingEventArgs.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCellValidatingEventArgs.EditorText Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCellValidatingEventArgs.EditorText): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions.Antialiasing Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions.Antialiasing): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions.AntialiasingAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions.AntialiasingAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions.CategoryAxisLabels Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions.CategoryAxisLabels): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions.TextAntialiasing Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions.TextAntialiasing): Developer documentation for all DevExpress products.
+
+- [SpreadsheetChartsViewOptions.ValueAxisLabels Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetChartsViewOptions.ValueAxisLabels): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions.AllowFormulasInBiff8 Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.AllowFormulasInBiff8): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions.CopyFrom(SpreadsheetClipboardOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.CopyFrom(DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions.DisallowDelimiterWithinFields Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.DisallowDelimiterWithinFields): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions.KeepThemeColors Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.KeepThemeColors): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions.KeepThemeFonts Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.KeepThemeFonts): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions.PasteChartAsPicture Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.PasteChartAsPicture): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions.PasteFormat Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.PasteFormat): Developer documentation for all DevExpress products.
+
+- [SpreadsheetClipboardOptions.PasteImageAsMetafile Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetClipboardOptions.PasteImageAsMetafile): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.AutoFit Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.AutoFit): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.AutoFitAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.AutoFitAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.Delete Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.Delete): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.DeleteAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.DeleteAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.Hide Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.Hide): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.HideAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.HideAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.Insert Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.Insert): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.InsertAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.InsertAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.Resize Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.Resize): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.ResizeAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.ResizeAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.Unhide Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.Unhide): Developer documentation for all DevExpress products.
+
+- [SpreadsheetColumnBehaviorOptions.UnhideAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetColumnBehaviorOptions.UnhideAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.Delete Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.Delete): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.DeleteAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.DeleteAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.Edit Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.Edit): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.EditAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.EditAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.Insert Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.Insert): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.InsertAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.InsertAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.Move Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.Move): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.MoveAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.MoveAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.Resize Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.Resize): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.ResizeAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.ResizeAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.ShowHide Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.ShowHide): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.ShowHideAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.ShowHideAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCommentBehaviorOptions.ShowOnHover Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCommentBehaviorOptions.ShowOnHover): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions.EnableLegacyLayoutEngine Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions.EnableLegacyLayoutEngine): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions.EnableLegacyPdfExport Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions.EnableLegacyPdfExport): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions.EnableLegacyPrintLayout Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions.EnableLegacyPrintLayout): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCompatibilityOptions.TruncateLongStringsInFormulas Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCompatibilityOptions.TruncateLongStringsInFormulas): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCopyOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCopyOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCopyOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCopyOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCopyOptions.CopyFrom(SpreadsheetCopyOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions.CopyFrom(DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCopyOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCopyOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCopyOptions.KeepSourceThemeColors Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions.KeepSourceThemeColors): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCopyOptions.KeepSourceThemeFonts Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCopyOptions.KeepSourceThemeFonts): Developer documentation for all DevExpress products.
+
+- [SpreadsheetCustomAssemblyBehavior Enum | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetCustomAssemblyBehavior): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataSourceLoadingOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataSourceLoadingOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataSourceLoadingOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataSourceLoadingOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataSourceLoadingOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataSourceLoadingOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataSourceLoadingOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataSourceLoadingOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataSourceLoadingOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataSourceLoadingOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataSourceLoadingOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataSourceLoadingOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataSourceLoadingOptions.CustomAssemblyBehavior Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataSourceLoadingOptions.CustomAssemblyBehavior): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions.CircleInvalidData Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions.CircleInvalidData): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions.CircleInvalidDataAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions.CircleInvalidDataAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions.ClearValidationCircles Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions.ClearValidationCircles): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions.ClearValidationCirclesAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions.ClearValidationCirclesAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions.ModifyValidationRules Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions.ModifyValidationRules): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDataValidationBehaviorOptions.ModifyValidationRulesAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDataValidationBehaviorOptions.ModifyValidationRulesAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDecryptionError Enum | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDecryptionError): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDecryptionException Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDecryptionException): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDecryptionException Events | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDecryptionException._events): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDecryptionException Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDecryptionException._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDecryptionException Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDecryptionException._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDecryptionException Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDecryptionException._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDecryptionException(SpreadsheetDecryptionError, String) Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDecryptionException.-ctor(DevExpress.XtraSpreadsheet.SpreadsheetDecryptionError-System.String)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDecryptionException Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDecryptionException.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDecryptionException.Error Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDecryptionException.Error): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions.ChangeZOrder Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.ChangeZOrder): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions.ChangeZOrderAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.ChangeZOrderAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions.Move Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.Move): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions.MoveAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.MoveAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions.Resize Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.Resize): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions.ResizeAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.ResizeAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions.Rotate Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.Rotate): Developer documentation for all DevExpress products.
+
+- [SpreadsheetDrawingBehaviorOptions.RotateAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetDrawingBehaviorOptions.RotateAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFillHandleBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFillHandleBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFillHandleBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFillHandleBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFillHandleBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFillHandleBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFillHandleBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFillHandleBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFillHandleBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFillHandleBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFillHandleBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFillHandleBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFillHandleBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFillHandleBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFillHandleBehaviorOptions.Enabled Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFillHandleBehaviorOptions.Enabled): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFormulaAutoCompleteOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFormulaAutoCompleteOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFormulaAutoCompleteOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFormulaAutoCompleteOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFormulaAutoCompleteOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFormulaAutoCompleteOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFormulaAutoCompleteOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFormulaAutoCompleteOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFormulaAutoCompleteOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFormulaAutoCompleteOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFormulaAutoCompleteOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFormulaAutoCompleteOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFormulaAutoCompleteOptions.Enabled Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFormulaAutoCompleteOptions.Enabled): Developer documentation for all DevExpress products.
+
+- [SpreadsheetFormulaAutoCompleteOptions.SearchMode Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetFormulaAutoCompleteOptions.SearchMode): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.ChangeSettings Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.ChangeSettings): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.ChangeSettingsAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.ChangeSettingsAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.Collapse Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.Collapse): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.CollapseAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.CollapseAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.CollapseExpandOnProtectedSheet Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.CollapseExpandOnProtectedSheet): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.CollapseExpandOnProtectedSheetAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.CollapseExpandOnProtectedSheetAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.CollapseExpandOnReadOnlyControl Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.CollapseExpandOnReadOnlyControl): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.CollapseExpandOnReadOnlyControlAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.CollapseExpandOnReadOnlyControlAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.Expand Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.Expand): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.ExpandAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.ExpandAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.Group Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.Group): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.GroupAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.GroupAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.Ungroup Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.Ungroup): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupBehaviorOptions.UngroupAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupBehaviorOptions.UngroupAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupInfo Struct | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupInfo): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupInfo Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupInfo._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupInfo Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupInfo._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupInfo Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupInfo._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupInfo.EndIndex Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupInfo.EndIndex): Developer documentation for all DevExpress products.
+
+- [SpreadsheetGroupInfo.StartIndex Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetGroupInfo.StartIndex): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListOptions.StartLocation Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListOptions.StartLocation): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListOptions.StartPosition Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListOptions.StartPosition): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListOptions.StartSize Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListOptions.StartSize): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPivotTableFieldListStartPosition Enum | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPivotTableFieldListStartPosition): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintContent Enum | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintContent): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintOptions.PrintContent Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintOptions.PrintContent): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintOptions.RibbonPreview Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintOptions.RibbonPreview): Developer documentation for all DevExpress products.
+
+- [SpreadsheetPrintRenderMode Enum | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetPrintRenderMode): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.AllowUsersToEditRange Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.AllowUsersToEditRange): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.AllowUsersToEditRangeAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.AllowUsersToEditRangeAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.ProtectSheet Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.ProtectSheet): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.ProtectSheetAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.ProtectSheetAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.ProtectWorkbook Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.ProtectWorkbook): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.ProtectWorkbookAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.ProtectWorkbookAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.UnprotectSheet Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.UnprotectSheet): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.UnprotectSheetAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.UnprotectSheetAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.UnprotectWorkbook Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.UnprotectWorkbook): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionBehaviorOptions.UnprotectWorkbookAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionBehaviorOptions.UnprotectWorkbookAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionOptions.CopyFrom(SpreadsheetProtectionOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions.CopyFrom(DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionOptions.SpinCount Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions.SpinCount): Developer documentation for all DevExpress products.
+
+- [SpreadsheetProtectionOptions.UseStrongPasswordVerifier Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetProtectionOptions.UseStrongPasswordVerifier): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.AutoFit Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.AutoFit): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.AutoFitAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.AutoFitAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.Delete Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.Delete): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.DeleteAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.DeleteAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.Hide Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.Hide): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.HideAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.HideAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.Insert Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.Insert): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.InsertAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.InsertAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.Resize Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.Resize): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.ResizeAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.ResizeAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.Unhide Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.Unhide): Developer documentation for all DevExpress products.
+
+- [SpreadsheetRowBehaviorOptions.UnhideAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetRowBehaviorOptions.UnhideAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions.AllowExtendSelection Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions.AllowExtendSelection): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions.AllowMultiSelection Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions.AllowMultiSelection): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions.HideSelection Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions.HideSelection): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions.MoveActiveCellMode Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions.MoveActiveCellMode): Developer documentation for all DevExpress products.
+
+- [SpreadsheetSelectionOptions.ShowSelectionMode Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetSelectionOptions.ShowSelectionMode): Developer documentation for all DevExpress products.
+
+- [SpreadsheetUnhandledExceptionEventArgs Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetUnhandledExceptionEventArgs): Developer documentation for all DevExpress products.
+
+- [SpreadsheetUnhandledExceptionEventArgs Fields | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetUnhandledExceptionEventArgs._fields): Developer documentation for all DevExpress products.
+
+- [SpreadsheetUnhandledExceptionEventArgs Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetUnhandledExceptionEventArgs._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetUnhandledExceptionEventArgs Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetUnhandledExceptionEventArgs._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetUnhandledExceptionEventArgs Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetUnhandledExceptionEventArgs._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetUnhandledExceptionEventArgs(Exception) Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetUnhandledExceptionEventArgs.-ctor(System.Exception)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetUnhandledExceptionEventArgs Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetUnhandledExceptionEventArgs.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetUnhandledExceptionEventArgs.Exception Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetUnhandledExceptionEventArgs.Exception): Developer documentation for all DevExpress products.
+
+- [SpreadsheetUnhandledExceptionEventArgs.Handled Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetUnhandledExceptionEventArgs.Handled): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.BackColor Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.BackColor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.Charts Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.Charts): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.ColumnHeaderHeight Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.ColumnHeaderHeight): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.Pictures Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.Pictures): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.RowHeaderWidth Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.RowHeaderWidth): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.ShowColumnHeaders Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.ShowColumnHeaders): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.ShowPlaceholders Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.ShowPlaceholders): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.ShowPrintArea Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.ShowPrintArea): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.ShowRowHeaders Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.ShowRowHeaders): Developer documentation for all DevExpress products.
+
+- [SpreadsheetViewOptions.UseFontSubstitution Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetViewOptions.UseFontSubstitution): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions._members): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions._methods): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions._properties): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.Assign(BaseOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.Assign(DevExpress.Utils.Controls.BaseOptions)): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.Delete Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.Delete): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.DeleteAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.DeleteAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.Hide Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.Hide): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.HideAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.HideAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.Insert Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.Insert): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.InsertAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.InsertAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.Rename Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.Rename): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.RenameAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.RenameAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.TabColor Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.TabColor): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.TabColorAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.TabColorAllowed): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.Unhide Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.Unhide): Developer documentation for all DevExpress products.
+
+- [SpreadsheetWorksheetBehaviorOptions.UnhideAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.SpreadsheetWorksheetBehaviorOptions.UnhideAllowed): Developer documentation for all DevExpress products.
+
+- [UnhandledExceptionEventHandler Delegate | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.UnhandledExceptionEventHandler): Developer documentation for all DevExpress products.
+
+- [VisibleRangeChangedEventArgs Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.VisibleRangeChangedEventArgs): Developer documentation for all DevExpress products.
+
+- [VisibleRangeChangedEventArgs Fields | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.VisibleRangeChangedEventArgs._fields): Developer documentation for all DevExpress products.
+
+- [VisibleRangeChangedEventArgs Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.VisibleRangeChangedEventArgs._members): Developer documentation for all DevExpress products.
+
+- [VisibleRangeChangedEventArgs Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.VisibleRangeChangedEventArgs._methods): Developer documentation for all DevExpress products.
+
+- [VisibleRangeChangedEventArgs Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.VisibleRangeChangedEventArgs._properties): Developer documentation for all DevExpress products.
+
+- [VisibleRangeChangedEventArgs.Range Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.VisibleRangeChangedEventArgs.Range): Developer documentation for all DevExpress products.
+
+- [VisibleRangeChangedEventArgs.UnfrozenRange Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.VisibleRangeChangedEventArgs.UnfrozenRange): Developer documentation for all DevExpress products.
+
+- [VisibleRangeChangedEventHandler Delegate | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.VisibleRangeChangedEventHandler): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions._members): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions._methods): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions._properties): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.Charts Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.Charts): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.ChartsAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.ChartsAllowed): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.CopyFrom(WorkbookCapabilitiesOptions) Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.CopyFrom(DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions)): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.DynamicArrayFormulas Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.DynamicArrayFormulas): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.DynamicArrayFormulasAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.DynamicArrayFormulasAllowed): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.Formulas Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.Formulas): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.FormulasAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.FormulasAllowed): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.Pictures Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.Pictures): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.PicturesAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.PicturesAllowed): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.Shapes Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.Shapes): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.ShapesAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.ShapesAllowed): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.Sparklines Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.Sparklines): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.SparklinesAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.SparklinesAllowed): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.Undo Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.Undo): Developer documentation for all DevExpress products.
+
+- [WorkbookCapabilitiesOptions.UndoAllowed Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookCapabilitiesOptions.UndoAllowed): Developer documentation for all DevExpress products.
+
+- [WorkbookEventOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookEventOptions): Developer documentation for all DevExpress products.
+
+- [WorkbookEventOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookEventOptions._members): Developer documentation for all DevExpress products.
+
+- [WorkbookEventOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookEventOptions._methods): Developer documentation for all DevExpress products.
+
+- [WorkbookEventOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookEventOptions._properties): Developer documentation for all DevExpress products.
+
+- [WorkbookEventOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookEventOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [WorkbookEventOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookEventOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [WorkbookEventOptions.RaiseOnModificationsViaAPI Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookEventOptions.RaiseOnModificationsViaAPI): Developer documentation for all DevExpress products.
+
+- [WorkbookLayoutOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLayoutOptions): Developer documentation for all DevExpress products.
+
+- [WorkbookLayoutOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLayoutOptions._members): Developer documentation for all DevExpress products.
+
+- [WorkbookLayoutOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLayoutOptions._methods): Developer documentation for all DevExpress products.
+
+- [WorkbookLayoutOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLayoutOptions._properties): Developer documentation for all DevExpress products.
+
+- [WorkbookLayoutOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLayoutOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [WorkbookLayoutOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLayoutOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [WorkbookLayoutOptions.DefaultDpi Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLayoutOptions.DefaultDpi): Developer documentation for all DevExpress products.
+
+- [WorkbookLayoutOptions.Dpi Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLayoutOptions.Dpi): Developer documentation for all DevExpress products.
+
+- [WorkbookLayoutOptions.ResetDpi() Method | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLayoutOptions.ResetDpi): Developer documentation for all DevExpress products.
+
+- [WorkbookLocalizationOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLocalizationOptions): Developer documentation for all DevExpress products.
+
+- [WorkbookLocalizationOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLocalizationOptions._members): Developer documentation for all DevExpress products.
+
+- [WorkbookLocalizationOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLocalizationOptions._methods): Developer documentation for all DevExpress products.
+
+- [WorkbookLocalizationOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLocalizationOptions._properties): Developer documentation for all DevExpress products.
+
+- [WorkbookLocalizationOptions.FunctionNameCulture Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLocalizationOptions.FunctionNameCulture): Developer documentation for all DevExpress products.
+
+- [WorkbookLocalizationOptions.LocalizeBooleanValues Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookLocalizationOptions.LocalizeBooleanValues): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions._members): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions._methods): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions._properties): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions.PrintPlaceholders Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions.PrintPlaceholders): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions.PrintSheetVisibility Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions.PrintSheetVisibility): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions.RenderMode Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions.RenderMode): Developer documentation for all DevExpress products.
+
+- [WorkbookPrintOptions.ShowMarginsWarning Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookPrintOptions.ShowMarginsWarning): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions Class | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions Members | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions._members): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions Methods | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions._methods): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions Properties | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions._properties): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions() Constructor | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions.-ctor): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions Constructors | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions.-ctor.overloads): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions.CurrentFileName Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions.CurrentFileName): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions.CurrentFormat Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions.CurrentFormat): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions.DefaultFileName Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions.DefaultFileName): Developer documentation for all DevExpress products.
+
+- [WorkbookSaveOptions.DefaultFormat Property | Office File API | DevExpress Documentation](https://docs.devexpress.com/OfficeFileAPI/DevExpress.XtraSpreadsheet.WorkbookSaveOptions.DefaultFormat): Developer documentation for all DevExpress products.
+
+
