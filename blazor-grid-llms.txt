@@ -1,0 +1,590 @@
+# DevExpress Blazor Grid Documentation
+
+> The **DevExpress Grid for Blazor (DxGrid)** allows you to display, manage, and shape tabular data.
+
+To get started, refer to the main documentation page: [Grid](https://docs.devexpress.com/Blazor/403143). It provides guidance on how to navigate to the grid class and explore documentation covering the grid’s features.
+
+The class that implements the DevExpress Blazor Grid is documented here: [DevExpress Grid component](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid).
+
+The Grid is one of many available Blazor components. You can browse the full component list and instructions on how to build Blazor allocations based on DevExpress Blazor Components here: https://docs.devexpress.com/Blazor/llms.txt
+
+## Get Started
+
+- [Get Started](https://docs.devexpress.com/Blazor/403625)
+
+## How Tos
+
+- [Bind Blazor Grid to Data](https://docs.devexpress.com/Blazor/403737)
+- [Sort Data](https://docs.devexpress.com/Blazor/404460)
+- [Group Data](https://docs.devexpress.com/Blazor/404433)
+- [Filter Row](https://docs.devexpress.com/Blazor/404325)
+- [Search Box](https://docs.devexpress.com/Blazor/404142)
+- [Column Filter Menu](https://docs.devexpress.com/Blazor/404417)
+- [Filter API](https://docs.devexpress.com/Blazor/404327)
+- [Summary](https://docs.devexpress.com/Blazor/404471)
+- [Editing and Validation](https://docs.devexpress.com/Blazor/403454)
+- [Edit Model](https://docs.devexpress.com/Blazor/404759)
+- [Pop-Up and Inline Edit Forms](https://docs.devexpress.com/Blazor/404757)
+- [Inline Edit Row](https://docs.devexpress.com/Blazor/404758)
+- [Cell Editing](https://docs.devexpress.com/Blazor/404756)
+- [Cell Editors](https://docs.devexpress.com/Blazor/404780)
+- [Validate User Input](https://docs.devexpress.com/Blazor/404443)
+- [Selection and Focus](https://docs.devexpress.com/Blazor/404461)
+- [Columns in Blazor Grid](https://docs.devexpress.com/Blazor/404479)
+- [Layout Specifics](https://docs.devexpress.com/Blazor/403586)
+- [Data Export](https://docs.devexpress.com/Blazor/404338)
+- [Appearance Customization](https://docs.devexpress.com/Blazor/404725)
+- [Templates](https://docs.devexpress.com/Blazor/404473)
+- [Display Text](https://docs.devexpress.com/Blazor/404278)
+- [Drag and Drop Rows](https://docs.devexpress.com/Blazor/405231)
+- [Paging](https://docs.devexpress.com/Blazor/404474)
+- [Scrolling](https://docs.devexpress.com/Blazor/404753)
+- [Keyboard Support](https://docs.devexpress.com/Blazor/404652)
+
+## Demos and examples
+
+- [Demos](https://demos.devexpress.com/blazor/Grid)
+- [Examples](https://docs.devexpress.com/Blazor/404035)
+- [Videos](https://docs.devexpress.com/Blazor/401056/videos#grid)
+
+## Troubleshooting
+
+- [Large/Remote Data Sources: Optimize Performance](https://docs.devexpress.com/Blazor/405321)
+- [System.InvalidCastException](https://docs.devexpress.com/Blazor/403827)
+- [A property with the name XXX is not found in the object of type YYY](https://docs.devexpress.com/Blazor/403935) 
+- [The XXX enumeration type is not registered for the parse operation](https://docs.devexpress.com/Blazor/404464) 
+
+## API Reference | DxGrid Class
+- [DxGrid Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid)
+- [DxGrid()](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.-ctor): Initializes a new instance of the [DxGrid](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid) class.
+- [AllowColumnReorder](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AllowColumnReorder): Specifies whether users can reorder columns.
+- [AllowDragRows](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AllowDragRows): Specifies whether users can start the row drag operation.
+- [AllowedDropTarget](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AllowedDropTarget): Specifies allowed drag-and-drop targets.
+- [AllowGroup](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AllowGroup): Specifies whether users can group grid data.
+- [AllowSelectRowByClick](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AllowSelectRowByClick): Specifies whether users can select and deselect rows by mouse clicks, tap gestures, and keyboard shortcuts.
+- [AllowSort](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AllowSort): Specifies whether users can sort grid data.
+- [Attributes](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.Attributes): Specifies a collection of standard HTML attributes applied to the Grid.
+- [AutoCollapseDetailRow](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AutoCollapseDetailRow): Automatically collapse an expanded detail row when another is expanded.
+- [AutoExpandAllGroupRows](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AutoExpandAllGroupRows): Automatically expand all group rows on load or interaction.
+- [ColumnCaptionAlignment](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ColumnCaptionAlignment): Sets alignment of all column [captions](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Caption).
+- [ColumnFooterTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ColumnFooterTemplate): Template for all footer cells.
+- [ColumnGroupFooterTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ColumnGroupFooterTemplate): Template for all group footer cells.
+- [ColumnHeaderCaptionTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ColumnHeaderCaptionTemplate): Template for all column header captions.
+- [ColumnResizeMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ColumnResizeMode): Specifies how users can resize columns.
+- [Columns](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.Columns): Allows adding Grid columns.
+- [CssClass](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CssClass): Assigns a CSS class to the Grid.
+- [CustomValidators](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomValidators): Declare custom validator components.
+- [Data](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.Data): Sets the Grid's data source.
+- [DataColumnCellDisplayTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DataColumnCellDisplayTemplate): Template for all data column cells.
+- [DataColumnCellEditTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DataColumnCellEditTemplate): Replace default editors with custom content in edit cells.
+- [DataColumnFilterMenuTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DataColumnFilterMenuTemplate): Template for all column filter menus.
+- [DataColumnFilterRowCellTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DataColumnFilterRowCellTemplate): Template for filter row cells in data columns.
+- [DataColumnGroupRowTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DataColumnGroupRowTemplate): Template for all group rows.
+- [DetailExpandButtonDisplayMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DetailExpandButtonDisplayMode): Controls display of expand buttons.
+- [DetailRowDisplayMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DetailRowDisplayMode): Controls when detail rows are shown.
+- [DetailRowTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DetailRowTemplate): Template to display a detail row.
+- [DragHintTextTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DragHintTextTemplate): Template for drag hint.
+- [DropTargetMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DropTargetMode): Controls drop behavior for external drag-and-drop.
+- [EditFormButtonsVisible](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditFormButtonsVisible): Show or hide Save and Cancel buttons in the edit form.
+- [EditFormTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditFormTemplate): Template for the [edit form](https://docs.devexpress.com/Blazor/404757/components/grid/editing-and-validation/edit-modes/edit-forms).
+- [EditMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditMode): Sets how users edit data.
+- [EditNewRowPosition](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditNewRowPosition): Location of UI to create new rows.
+- [EditorRenderMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditorRenderMode): Rendering mode for editors in filter/edit rows.
+- [EmptyDataAreaTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EmptyDataAreaTemplate): Template for empty data area.
+- [FilterMenuButtonDisplayMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.FilterMenuButtonDisplayMode): When to show filter buttons in column headers.
+- [FocusedRowEnabled](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.FocusedRowEnabled): Enables row focus behavior.
+- [FooterDisplayMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.FooterDisplayMode): Controls footer visibility.
+- [GroupFooterDisplayMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GroupFooterDisplayMode): Controls group footer visibility.
+- [GroupSummary](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GroupSummary): Contains group summary items.
+- [HighlightRowOnHover](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.HighlightRowOnHover): Highlight rows on mouse hover.
+- [KeyboardNavigationEnabled](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.KeyboardNavigationEnabled): Obsolete. Keyboard navigation is now always enabled.
+- [KeyFieldName](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.KeyFieldName): Name of the unique ID field.
+- [KeyFieldNames](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.KeyFieldNames): Names of fields used as key identifiers.
+- [PageIndex](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PageIndex): Index of the active page.
+- [PagerAutoHideNavButtons](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PagerAutoHideNavButtons): Hides arrows if all numeric buttons are shown.
+- [PagerNavigationMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PagerNavigationMode): Pager navigation type.
+- [PagerPosition](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PagerPosition): Where the pager is located.
+- [PagerSwitchToInputBoxButtonCount](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PagerSwitchToInputBoxButtonCount): Page count threshold to switch to input box.
+- [PagerVisible](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PagerVisible): Show or hide the pager.
+- [PagerVisibleNumericButtonCount](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PagerVisibleNumericButtonCount): Max number of numeric buttons in pager.
+- [PageSize](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PageSize): Max rows per page.
+- [PageSizeSelectorAllRowsItemVisible](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PageSizeSelectorAllRowsItemVisible): Shows All item in the page size selector.
+- [PageSizeSelectorItems](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PageSizeSelectorItems): Items in page size selector.
+- [PageSizeSelectorVisible](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PageSizeSelectorVisible): Controls visibility of page size selector.
+- [PopupEditFormCssClass](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PopupEditFormCssClass): CSS class for the popup edit form.
+- [PopupEditFormHeaderText](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PopupEditFormHeaderText): Text in popup edit form header.
+- [SearchBoxInputDelay](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SearchBoxInputDelay): Delay before updating search text.
+- [SearchBoxNullText](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SearchBoxNullText): Prompt in empty search box.
+- [SearchBoxTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SearchBoxTemplate): Template for the search box.
+- [SearchText](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SearchText): Search text for filtering and highlighting.
+- [SearchTextParseMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SearchTextParseMode): Search word handling behavior.
+- [SelectAllCheckboxMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectAllCheckboxMode): Controls scope of "Select All" checkbox.
+- [SelectedDataItem](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectedDataItem): Selected item in single selection mode.
+- [SelectedDataItems](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectedDataItems): Selected items in multi-selection mode.
+- [SelectionMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectionMode): Sets selection mode.
+- [ShowAllRows](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowAllRows): Display all rows on one page.
+- [ShowFilterRow](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowFilterRow): Show or hide the filter row.
+- [ShowGroupedColumns](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowGroupedColumns): Display grouped columns with others.
+- [ShowGroupPanel](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowGroupPanel): Show or hide the Group Panel.
+- [ShowSearchBox](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowSearchBox): Show or hide the search box.
+- [SizeMode](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SizeMode): Controls size of grid elements.
+- [SkeletonRowsEnabled](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SkeletonRowsEnabled): Show skeleton rows during data loading.
+- [TextWrapEnabled](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.TextWrapEnabled): Wrap or trim text in cells.
+- [ToolbarTemplate](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ToolbarTemplate): Template for toolbar area.
+- [TotalSummary](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.TotalSummary): Contains total summary items.
+- [ValidationEnabled](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ValidationEnabled): Enable user input validation.
+- [VirtualScrollingEnabled](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.VirtualScrollingEnabled): Enables vertical virtual scrolling.
+- [`AutoFitColumnWidths()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AutoFitColumnWidths): Adjusts column widths to their content.
+- [`AutoFitColumnWidths(Boolean)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.AutoFitColumnWidths%28System.Boolean%29): Obsolete. Automatically adjusts column widths to their content.
+- [`BeginUpdate()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.BeginUpdate): Suspends Grid updates until `EndUpdate()` is called.
+- [`CancelEditAsync()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CancelEditAsync): Cancels row editing and discards changes.
+- [`ClearFilter()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ClearFilter): Clears the applied filter.
+- [`ClearSelection()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ClearSelection): Clears selection.
+- [`ClearSort()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ClearSort): Clears sorting and grouping.
+- [`CollapseAllDetailRows()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CollapseAllDetailRows): Collapses all detail rows.
+- [`CollapseAllGroupRows()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CollapseAllGroupRows): Collapses all group rows.
+- [`CollapseDetailRow(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CollapseDetailRow%28System.Int32%29): Collapses the specified detail row.
+- [`CollapseGroupRow(Int32, Boolean)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CollapseGroupRow%28System.Int32-System.Boolean%29): Collapses a group row by visible index.
+- [`DeselectAllAsync()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DeselectAllAsync): Deselects all rows.
+- [`DeselectAllOnPage()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DeselectAllOnPage): Deselects all rows on the current page.
+- [`DeselectDataItem(Object)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DeselectDataItem%28System.Object%29): Deselects a row by its data item.
+- [`DeselectDataItems(IEnumerable<Object>)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DeselectDataItems%28System.Collections.Generic.IEnumerable-System.Object-%29): Deselects multiple rows.
+- [`DeselectRow(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DeselectRow%28System.Int32%29): Deselects a row by visible index.
+- [`DeselectRows(IEnumerable<Int32>)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DeselectRows%28System.Collections.Generic.IEnumerable-System.Int32-%29): Deselects rows by visible indexes.
+- [`EndUpdate()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EndUpdate): Resumes Grid updates.
+- [`ExpandAllGroupRows()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ExpandAllGroupRows): Expands all group rows.
+- [`ExpandDetailRow(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ExpandDetailRow%28System.Int32%29): Expands the specified detail row.
+- [`ExpandGroupRow(Int32, Boolean)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ExpandGroupRow%28System.Int32-System.Boolean%29): Expands a group row by visible index.
+- [`ExportToCsvAsync(Stream, GridCsvExportOptions)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ExportToCsvAsync%28System.IO.Stream-DevExpress.Blazor.GridCsvExportOptions%29): Exports to CSV stream.
+- [`ExportToCsvAsync(String, GridCsvExportOptions)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ExportToCsvAsync%28System.String-DevExpress.Blazor.GridCsvExportOptions%29): Downloads CSV to client.
+- [`ExportToXlsAsync(Stream, GridXlExportOptions)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ExportToXlsAsync%28System.IO.Stream-DevExpress.Blazor.GridXlExportOptions%29): Exports to XLS stream.
+- [`ExportToXlsAsync(String, GridXlExportOptions)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ExportToXlsAsync%28System.String-DevExpress.Blazor.GridXlExportOptions%29): Downloads XLS to client.
+- [`ExportToXlsxAsync(Stream, GridXlExportOptions)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ExportToXlsxAsync%28System.IO.Stream-DevExpress.Blazor.GridXlExportOptions%29): Exports to XLSX stream.
+- [`ExportToXlsxAsync(String, GridXlExportOptions)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ExportToXlsxAsync%28System.String-DevExpress.Blazor.GridXlExportOptions%29): Downloads XLSX to client.
+- [`FilterBy(String, GridFilterRowOperatorType, Object)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.FilterBy%28System.String-DevExpress.Blazor.GridFilterRowOperatorType-System.Object%29): Filters by a column value.
+- [`GetColumnEditSettings<T>(String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetColumnEditSettings--1%28System.String%29): Returns editor settings for a column.
+- [`GetColumns()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetColumns): Gets all grid columns.
+- [`GetDataColumns()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetDataColumns): Gets data columns.
+- [`GetDataItem(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetDataItem%28System.Int32%29): Gets the data item for a row.
+- [`GetDataItemValue(Object, String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetDataItemValue%28System.Object-System.String%29): Gets field value for a data item.
+- [`GetEditContext()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetEditContext): Gets the edit context.
+- [`GetFieldFilterCriteria(String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetFieldFilterCriteria%28System.String%29): Gets filter criteria for a field.
+- [`GetFilterCriteria()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetFilterCriteria): Gets filter criteria.
+- [`GetFocusedDataItem()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetFocusedDataItem): Gets the focused row’s data item.
+- [`GetFocusedRowIndex()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetFocusedRowIndex): Gets the focused row index.
+- [`GetGroupCount()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetGroupCount): Gets the number of grouped columns.
+- [`GetGroupSummaryDisplayText(IGridSummaryItem, Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetGroupSummaryDisplayText%28DevExpress.Blazor.IGridSummaryItem-System.Int32%29): Gets a group summary item’s display text.
+- [`GetGroupSummaryFormattedValue(IGridSummaryItem, Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetGroupSummaryFormattedValue%28DevExpress.Blazor.IGridSummaryItem-System.Int32%29): Gets a group summary item’s formatted value.
+- [`GetGroupSummaryItems()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetGroupSummaryItems): Gets the collection of group summary items.
+- [`GetGroupSummaryLabel(IGridSummaryItem, Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetGroupSummaryLabel%28DevExpress.Blazor.IGridSummaryItem-System.Int32%29): Gets the name of a group summary’s function.
+- [`GetGroupSummaryValue(IGridSummaryItem, Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetGroupSummaryValue%28DevExpress.Blazor.IGridSummaryItem-System.Int32%29): Gets a group summary item’s value.
+- [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Default hash function.
+- [`GetPageCount()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetPageCount): Gets the total number of grid pages.
+- [`GetRowLevel(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetRowLevel%28System.Int32%29): Gets the nesting level of a row.
+- [`GetRowValue(Int32, String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetRowValue%28System.Int32-System.String%29): Gets a field value from a row.
+- [`GetSortedColumns()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetSortedColumns): Gets sorted columns.
+- [`GetStartRowVisibleIndex()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetStartRowVisibleIndex): Gets the visible index of the first row on the page.
+- [`GetTotalSummaryDisplayText(IGridSummaryItem)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetTotalSummaryDisplayText%28DevExpress.Blazor.IGridSummaryItem%29): Gets a total summary item’s display text.
+- [`GetTotalSummaryFormattedValue(IGridSummaryItem)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetTotalSummaryFormattedValue%28DevExpress.Blazor.IGridSummaryItem%29): Gets a total summary item’s formatted value.
+- [`GetTotalSummaryItems()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetTotalSummaryItems): Gets total summary items.
+- [`GetTotalSummaryLabel(IGridSummaryItem)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetTotalSummaryLabel%28DevExpress.Blazor.IGridSummaryItem%29): Gets the name of a total summary’s function.
+- [`GetTotalSummaryValue(IGridSummaryItem)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetTotalSummaryValue%28DevExpress.Blazor.IGridSummaryItem%29): Gets a total summary item’s value.
+- [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the type of the current instance.
+- [`GetVisibleColumns()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetVisibleColumns): Gets visible columns sorted by display order.
+- [`GetVisibleRowCount()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GetVisibleRowCount): Gets the number of visible rows.
+- [`GroupBy(String, Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GroupBy%28System.String-System.Int32%29): Groups data by column and specifies group index.
+- [`GroupBy(String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GroupBy%28System.String%29): Groups data by column.
+- [`IsDataItemFocused(Object)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsDataItemFocused%28System.Object%29): Checks if the row is focused.
+- [`IsDataItemSelected(Object)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsDataItemSelected%28System.Object%29): Checks if the row is selected.
+- [`IsDetailRowExpanded(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsDetailRowExpanded%28System.Int32%29): Checks if a detail row is expanded.
+- [`IsEditing()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsEditing): Checks if editing is in progress.
+- [`IsEditingNewRow()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsEditingNewRow): Checks if a new row is being edited.
+- [`IsEditingRow(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsEditingRow%28System.Int32%29): Checks if a specific row is being edited.
+- [`IsGroupRow(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsGroupRow%28System.Int32%29): Determines whether a row is a group row.
+- [`IsGroupRowExpanded(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsGroupRowExpanded%28System.Int32%29): Checks if a group row is expanded.
+- [`IsRowFocused(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsRowFocused%28System.Int32%29): Checks if the specified row is focused.
+- [`IsRowSelected(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.IsRowSelected%28System.Int32%29): Checks if a row is selected.
+- [`LoadLayout(GridPersistentLayout)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.LoadLayout%28DevExpress.Blazor.GridPersistentLayout%29): Restores the grid layout.
+- [`MakeDataItemVisibleAsync(Object)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.MakeDataItemVisibleAsync%28System.Object%29): Makes a data item visible on screen.
+- [`MakeRowVisible(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.MakeRowVisible%28System.Int32%29): Makes a row visible on screen.
+- [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone): Creates a shallow copy of the current object.
+- [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29): Determines whether the specified object instances are the same.
+- [`RefreshSummary()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.RefreshSummary): Refreshes total and group summary values.
+- [`Reload()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.Reload): Reloads grid data.
+- [`SaveChangesAsync()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SaveChangesAsync): Validates and triggers the `EditModelSaving` event.
+- [`SaveLayout()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SaveLayout): Saves the layout of the grid.
+- [`SelectAllAsync(Boolean)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectAllAsync%28System.Boolean%29): Selects or deselects all rows.
+- [`SelectAllOnPage(Boolean)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectAllOnPage%28System.Boolean%29): Selects or deselects all rows on the current page.
+- [`SelectDataItem(Object, Boolean)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectDataItem%28System.Object-System.Boolean%29): Selects or deselects a row for a data item.
+- [`SelectDataItems(IEnumerable<Object>, Boolean)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectDataItems%28System.Collections.Generic.IEnumerable-System.Object--System.Boolean%29): Selects or deselects multiple rows by data items.
+- [`SelectRow(Int32, Boolean)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectRow%28System.Int32-System.Boolean%29): Selects or deselects a row by visible index.
+- [`SelectRows(IEnumerable<Int32>, Boolean)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectRows%28System.Collections.Generic.IEnumerable-System.Int32--System.Boolean%29): Selects or deselects multiple rows by visible indexes.
+- [`SetFieldFilterCriteria(String, CriteriaOperator)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SetFieldFilterCriteria%28System.String-DevExpress.Data.Filtering.CriteriaOperator%29): Applies a filter to a data field.
+- [`SetFilterCriteria(CriteriaOperator)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SetFilterCriteria%28DevExpress.Data.Filtering.CriteriaOperator%29): Applies a filter to the entire grid.
+- [`SetFocusedDataItemAsync(Object)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SetFocusedDataItemAsync%28System.Object%29): Moves focus to a row by data item.
+- [`SetFocusedRowIndex(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SetFocusedRowIndex%28System.Int32%29): Moves focus to a row by visible index.
+- [`ShowColumnChooser()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowColumnChooser): Shows the column chooser in the grid center.
+- [`ShowColumnChooser(DialogDisplayOptions)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowColumnChooser%28DevExpress.Blazor.DialogDisplayOptions%29): Shows the column chooser using custom display options.
+- [`ShowColumnChooser(String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowColumnChooser%28System.String%29): Shows the column chooser under a specific element.
+- [`ShowDataItemDeleteConfirmation(Object)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowDataItemDeleteConfirmation%28System.Object%29): Displays a delete confirmation dialog for a data item.
+- [`ShowRowDeleteConfirmation(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowRowDeleteConfirmation%28System.Int32%29): Displays a delete confirmation dialog for a row.
+- [`SortBy(String, GridColumnSortOrder, Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SortBy%28System.String-DevExpress.Blazor.GridColumnSortOrder-System.Int32%29): Sorts by column and sets column index.
+- [`SortBy(String, GridColumnSortOrder)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SortBy%28System.String-DevExpress.Blazor.GridColumnSortOrder%29): Sorts column values in a specified order.
+- [`SortBy(String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SortBy%28System.String%29): Sorts by column.
+- [`StartEditDataItemAsync(Object, String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.StartEditDataItemAsync%28System.Object-System.String%29): Starts editing a specified data item.
+- [`StartEditNewRowAsync(String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.StartEditNewRowAsync%28System.String%29): Starts editing a new row.
+- [`StartEditRowAsync(Int32, String)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.StartEditRowAsync%28System.Int32-System.String%29): Starts editing a row by visible index.
+- [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string representation of the current object.
+- [`WaitForDataLoadAsync()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.WaitForDataLoadAsync): Awaits pending data load operations.
+- [`WaitForInstantFeedbackRowLoadAsync(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.WaitForInstantFeedbackRowLoadAsync%28System.Int32%29): Obsolete. Waits for asynchronous row load (Instant Feedback mode).
+- [`WaitForRemoteSourceRowLoadAsync(Int32)`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.WaitForRemoteSourceRowLoadAsync%28System.Int32%29): Waits for asynchronous row load from remote source.
+- [`CustomGroup`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomGroup): Enables you to implement custom logic used to group data in the grid.
+- [`CustomizeCellDisplayText`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomizeCellDisplayText): Allows you to customize text displayed within a cell.
+- [`CustomizeDataRowEditor`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomizeDataRowEditor): Allows you to customize a cell editor in a data row.
+- [`CustomizeEditModel`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomizeEditModel): Allows you to create or customize the edit model.
+- [`CustomizeElement`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomizeElement): Allows you to customize grid elements.
+- [`CustomizeFilterMenu`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomizeFilterMenu): Allows you to customize [column filter menu](https://docs.devexpress.com/Blazor/404417/components/grid/data-shaping/filter-data/filter-menu) items.
+- [`CustomizeFilterRowEditor`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomizeFilterRowEditor): Allows you to customize a cell editor in the [filter row](https://docs.devexpress.com/Blazor/404325/components/grid/data-shaping/filter-data/filter-row).
+- [`CustomizeGroupValueDisplayText`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomizeGroupValueDisplayText): Allows you to customize the group value’s [display text](https://docs.devexpress.com/Blazor/404278/components/grid/appearance-customization/display-text).
+- [`CustomizeSummaryDisplayText`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomizeSummaryDisplayText): Allows you to customize the summary [display text](https://docs.devexpress.com/Blazor/404278/components/grid/appearance-customization/display-text).
+- [`CustomSort`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomSort): Allows you to implement custom logic used to sort data.
+- [`CustomSummary`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.CustomSummary): Allows you to create [custom summary items](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem#add-a-custom-summary-item).
+- [`DataItemDeleting`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.DataItemDeleting): Fires when a user confirms deletion in the confirmation dialog.
+- [`EditCanceling`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditCanceling): Fires before the Grid cancels the edit operation.
+- [`EditModelSaving`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditModelSaving): Fires after successful [validation](https://docs.devexpress.com/Blazor/404443/components/grid/editing-and-validation/validation) when changes are saved.
+- [`EditStart`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditStart): Fires before the Grid starts editing a row.
+- [`FilterCriteriaChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.FilterCriteriaChanged): Fires when grid filter criteria change.
+- [`FocusedRowChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.FocusedRowChanged): Fires when the focused row changes.
+- [`ItemsDropped`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ItemsDropped): Fires when rows are dropped onto the grid.
+- [`LayoutAutoLoading`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.LayoutAutoLoading): Fires when the grid is initialized and starts loading layout.
+- [`LayoutAutoSaving`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.LayoutAutoSaving): Fires when the grid’s layout changes.
+- [`PageIndexChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PageIndexChanged): Fires when the active page index changes.
+- [`PageSizeChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.PageSizeChanged): Fires when the page size changes.
+- [`RowClick`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.RowClick): Fires on row click, tap, or Enter key press.
+- [`RowDoubleClick`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.RowDoubleClick): Fires when a user double-clicks a row.
+- [`SearchTextChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SearchTextChanged): Fires when the [search text](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SearchText) changes.
+- [`SelectedDataItemChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectedDataItemChanged): In single selection mode, fires when another row is selected.
+- [`SelectedDataItemsChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.SelectedDataItemsChanged): In multiple selection mode, fires when the selection changes.
+- [`ShowAllRowsChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowAllRowsChanged): Fires when the [ShowAllRows](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowAllRows) property changes.
+- [`UnboundColumnData`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.UnboundColumnData): Allows you to implement logic for [unbound column](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn#create-an-unbound-column) values.
+
+
+## API Reference | DxGridBandColumn Class 
+
+- [DxGridBandColumn Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridBandColumn)
+- [`DxGridBandColumn()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridBandColumn.-ctor): Initializes a new instance of the [`DxGridBandColumn`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridBandColumn) class.
+- [`AllowReorder`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.AllowReorder): Specifies whether users can change this column’s position.
+- [`Caption`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Caption): Specifies the column’s caption.
+- [`CaptionAlignment`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.CaptionAlignment): Specifies the alignment of the column’s [`Caption`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Caption).
+- [`Columns`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridBandColumn.Columns): Allows you to add child columns to a [band](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridBandColumn).
+- [`FixedPosition`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.FixedPosition): Anchors the column to the Grid’s left or right edge.
+- [`FooterTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.FooterTemplate): Specifies a template for the column’s footer cell.
+- [`GroupFooterTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.GroupFooterTemplate): Specifies a template for the group footer cell.
+- [`HeaderCaptionTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.HeaderCaptionTemplate): Template for the column header’s caption. 
+- [`MinWidth`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.MinWidth): Minimum width of the column in pixels.
+- [`Name`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Name): Unique identifier of the column.
+- [`ShowInColumnChooser`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.ShowInColumnChooser): Determines if a hidden column appears in the column chooser.
+- [`TextAlignment`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.TextAlignment): Alignment of text in column cells. from `DxGridColumn`).
+- [`VisibleIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleIndex): Position of the column among others.
+- [`Width`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Width): Column width in [CSS units](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units).
+- [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29): Checks if two object instances are equal.
+- [`Equals(Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object%29): Checks if the specified object equals the current object.
+- [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Returns the default hash function.
+- [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the instance.
+- [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current object.
+- [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Checks if two objects reference the same instance.
+- [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string that represents the current object.
+- [`VisibleChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleChanged): Fires when the column visibility changes.
+- [`VisibleIndexChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleIndexChanged): Fires when the visible index of the column changes. 
+- [`WidthChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.WidthChanged): Fires when the column’s width changes.
+
+## API Reference | DxGridColumn Class
+
+- [DxGridColumn Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn)
+- [`DxGridColumn()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.-ctor): Initializes a new instance of the [`DxGridColumn`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn) class.
+* [`AllowReorder`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.AllowReorder): Specifies whether users can change this column’s position.
+* [`Caption`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Caption): Specifies the column’s caption.
+* [`CaptionAlignment`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.CaptionAlignment): Specifies the alignment of the column’s [`Caption`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Caption).
+* [`FixedPosition`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.FixedPosition): Allows you to anchor the column to the Grid’s left or right edge.
+* [`FooterTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.FooterTemplate): Specifies a template used to display the column’s footer cell.
+* [`GroupFooterTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.GroupFooterTemplate): Specifies a template for the column’s group footer cell.
+* [`HeaderCaptionTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.HeaderCaptionTemplate): Specifies a template used to display the column header’s caption.
+* [`MinWidth`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.MinWidth): Specifies a column’s minimum width in pixels.
+* [`Name`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Name): Specifies the column’s unique identifier.
+* [`ShowInColumnChooser`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.ShowInColumnChooser): Specifies whether a hidden column should be listed in the column chooser.
+* [`TextAlignment`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.TextAlignment): Specifies the alignment of text in column cells.
+* [`Visible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Visible): Specifies whether the grid column is visible.
+* [`VisibleIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleIndex): Specifies a column’s position among other columns.
+* [`Width`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Width): Specifies column width in [CSS units](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units).
+* [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+* [`Equals(Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object%29): Determines whether the specified object is equal to the current object.
+* [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Serves as the default hash function.
+* [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+* [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+* [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+* [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string that represents the current object.
+* [`VisibleChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleChanged): Fires when the column visibility changes.
+* [`VisibleIndexChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleIndexChanged): Fires when the column’s visible index changes.
+* [`WidthChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.WidthChanged): Fires when a column’s width changes.
+
+## API Reference | DxGridCommandColumn Class
+
+- [DxGridCommandColumn Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn)
+- [`DxGridCommandColumn()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.-ctor)
+  Initializes a new instance of the [`DxGridCommandColumn`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn) class.
+- [`AllowReorder`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.AllowReorder): Specifies whether users can change this column’s position.
+- [`CancelButtonVisible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.CancelButtonVisible): Specifies whether the [`command column`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn) displays the **Cancel*- button in `EditRow` or `EditCell` [`edit mode`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditMode).
+- [`Caption`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Caption): Specifies the column’s caption.
+- [`CaptionAlignment`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.CaptionAlignment): Specifies the alignment of the column’s [`Caption`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Caption).
+- [`CellDisplayTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.CellDisplayTemplate): Specifies a template used to display command column cells.
+- [`CellEditTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.CellEditTemplate): Specifies a template used to display the command column’s edit cell.
+- [`ClearFilterButtonVisible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.ClearFilterButtonVisible): Specifies whether the command column displays the **Clear*- button.
+- [`DeleteButtonVisible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.DeleteButtonVisible): Specifies whether the command column displays **Delete*- buttons.
+- [`EditButtonVisible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.EditButtonVisible): Specifies whether the command column displays **Edit*- buttons.
+- [`FilterRowCellTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.FilterRowCellTemplate): Specifies a template used to display the command column’s filter row cell.
+- [`FixedPosition`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.FixedPosition): Allows you to anchor the column to the Grid’s left or right edge.
+- [`FooterTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.FooterTemplate): Specifies a template used to display the column’s footer cell.
+- [`GroupFooterTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.GroupFooterTemplate): Specifies a template for the column’s group footer cell.
+- [`HeaderCaptionTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.HeaderCaptionTemplate): Specifies a template used to display the column header’s caption.
+- [`HeaderTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.HeaderTemplate): Specifies a template used to display the command column header.
+- [`MinWidth`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.MinWidth): Specifies a column’s minimum width in pixels.
+- [`Name`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Name): Specifies the column’s unique identifier.
+- [`NewButtonVisible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.NewButtonVisible): Specifies whether the command column displays the **New*- button.
+- [`SaveButtonVisible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridCommandColumn.SaveButtonVisible): Specifies whether the command column displays the **Save*- button in `EditRow` or `EditCell` [`edit mode`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditMode).
+- [`ShowInColumnChooser`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.ShowInColumnChooser): Specifies whether a hidden column should be listed in the column chooser.
+- [`TextAlignment`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.TextAlignment): Specifies the alignment of text in column cells.
+- [`Visible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Visible): Specifies whether the grid column is visible.
+- [`VisibleIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleIndex): Specifies a column’s position among other columns.
+- [`Width`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Width): Specifies column width in [CSS units](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units).
+- [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+- [`Equals(Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object%29): Determines whether the specified object is equal to the current object.
+- [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Serves as the default hash function.
+- [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+- [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+- [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+- [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string that represents the current object.
+- [`VisibleChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleChanged): Fires when the column visibility changes.
+- [`VisibleIndexChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleIndexChanged): Fires when the column’s visible index changes.
+- [`WidthChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.WidthChanged): Fires when a column’s width changes.
+- 
+## API Reference | DxGridDataColumn  Class
+
+- [DxGridDataColumn Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn)
+* [`DxGridDataColumn()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.-ctor): Initializes a new instance of the [`DxGridDataColumn`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn) class.
+* [`AllowGroup`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.AllowGroup): Specifies whether users can group data by this column.
+* [`AllowReorder`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.AllowReorder): Specifies whether users can change this column’s position.
+* [`AllowSort`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.AllowSort): Specifies whether users can sort data by the current column.
+* [`Caption`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Caption): Specifies the column’s caption.
+* [`CaptionAlignment`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.CaptionAlignment): Specifies the alignment of the column’s [`Caption`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Caption).
+* [`CellDisplayTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.CellDisplayTemplate): Specifies a template used to display the column’s cells.
+* [`CellEditTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.CellEditTemplate): Allows you to replace an automatically generated editor with custom content in the column’s [`edit cell`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditMode).
+* [`DataRowEditorVisible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.DataRowEditorVisible): Specifies whether to render the editor associated with this column in the column edit cell, [`edit form`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditMode#edit-form-default), or [`pop-up edit form`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.EditMode#popup-edit-form).
+* [`DisplayFormat`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.DisplayFormat): Specifies the format of column values and [`summary`](https://docs.devexpress.com/Blazor/404471/components/grid/data-shaping/summary) values calculated for this column.
+* [`EditSettings`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.EditSettings): Allows you to customize the editor associated with this column.
+* [`ExportEnabled`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.ExportEnabled): Specifies whether the grid can export the current column.
+* [`ExportWidth`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.ExportWidth): Specifies the column’s export width.
+* [`FieldName`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FieldName): Specifies the data field that supplies column values.
+* [`FilterMenuButtonDisplayMode`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FilterMenuButtonDisplayMode): Specifies when the column displays the [`filter menu`](https://docs.devexpress.com/Blazor/404417/components/grid/data-shaping/filter-data/filter-menu) button.
+* [`FilterMenuTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FilterMenuTemplate): Specifies a template used to display the column’s [`filter menu`](https://docs.devexpress.com/Blazor/404417/components/grid/data-shaping/filter-data/filter-menu).
+* [`FilterMode`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FilterMode): Specifies whether grid data is filtered by value or [`display text`](https://docs.devexpress.com/Blazor/404278/components/grid/appearance-customization/display-text).
+* [`FilterRowCellTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FilterRowCellTemplate): Allows you to replace default content with custom in the column’s [`filter row`](https://docs.devexpress.com/Blazor/404325/components/grid/data-shaping/filter-data/filter-row) cell.
+* [`FilterRowEditorVisible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FilterRowEditorVisible): Specifies whether the column’s filter row cell displays the automatically generated editor.
+* [`FilterRowOperatorType`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FilterRowOperatorType): Specifies the initial operator type used to create a filter condition based on the filter row value.
+* [`FilterRowValue`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FilterRowValue): Specifies the initial value in the column’s filter row editor.
+* [`FixedPosition`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.FixedPosition): Allows you to anchor the column to the Grid’s left or right edge.
+* [`FooterTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.FooterTemplate): Specifies a template used to display the column’s footer cell.
+* [`GroupFooterTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.GroupFooterTemplate): Specifies a template for the column’s group footer cell.
+* [`GroupIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.GroupIndex): Specifies the column’s index among grouped columns.
+* [`GroupInterval`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.GroupInterval): Specifies how to group data rows.
+* [`GroupRowTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.GroupRowTemplate): Specifies a template used to display [`group rows`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.GroupIndex) when the Grid is grouped by this column.
+* [`HeaderCaptionTemplate`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.HeaderCaptionTemplate): Specifies a template used to display the column header’s caption.
+* [`MinWidth`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.MinWidth): Specifies a column’s minimum width in pixels.
+* [`Name`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Name): Specifies the column’s unique identifier.
+* [`ReadOnly`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.ReadOnly): Specifies whether a user can change the column editor value when the Grid is in edit mode.
+* [`SearchEnabled`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.SearchEnabled): Specifies whether the Grid can search text in cells of the current column.
+* [`ShowInColumnChooser`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.ShowInColumnChooser): Specifies whether a hidden column should be listed in the column chooser.
+* [`SortIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.SortIndex): Specifies the column’s index among sorted columns. If the property is set to `-1`, the grid data is not sorted by this column.
+* [`SortMode`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.SortMode): Specifies how the Grid sorts column data (by values, by display text, or custom logic is used).
+* [`SortOrder`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.SortOrder): Specifies the column’s sort order (ascending or descending).
+* [`TextAlignment`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.TextAlignment): Specifies the alignment of text in column cells.
+* [`UnboundExpression`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.UnboundExpression): Specifies an [`expression`](/WindowsForms/6211/common-features/expressions) to evaluate values for the [`unbound column`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn#create-an-unbound-column).
+* [`UnboundType`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.UnboundType): Indicates that the column is [`unbound`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn#create-an-unbound-column) and specifies its data type.
+* [`Visible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Visible): Specifies whether the grid column is visible.
+* [`VisibleIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleIndex): Specifies a column’s position among other columns.
+* [`Width`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.Width): Specifies column width in [`CSS units`](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units).
+* [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+* [`Equals(Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object%29): Determines whether the specified object is equal to the current object.
+* [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Serves as the default hash function.
+* [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+* [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+* [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+* [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string that represents the current object.
+* [`FilterRowOperatorTypeChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FilterRowOperatorTypeChanged): Fires when the column’s operator type changes.
+* [`FilterRowValueChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.FilterRowValueChanged): Fires when the value in the column’s filter row editor changes.
+* [`GroupIndexChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.GroupIndexChanged): Fires when the column’s group index changes.
+* [`SortIndexChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.SortIndexChanged): Fires when the column’s sort index changes.
+* [`SortOrderChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.SortOrderChanged): Fires when the column’s sort order changes.
+* [`VisibleChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleChanged): Fires when the column visibility changes.
+* [`VisibleIndexChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.VisibleIndexChanged): Fires when the column’s visible index changes.
+* [`WidthChanged`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridColumn.WidthChanged): Fires when a column’s width changes.
+
+
+## API Reference | DxGridSelectionColumn Class
+- [DxGridSummaryItem Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem)
+- [`DxGridSummaryItem()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.-ctor): Initializes a new instance of the [`DxGridSummaryItem`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem) class.
+* [`DisplayText`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.DisplayText): Specifies [`display text pattern`](https://docs.devexpress.com/Blazor/404278/components/grid/appearance-customization/display-text) for the summary item. A display text string can include static text and placeholders for summary value and column caption.
+* [`FieldName`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.FieldName): Specifies a data field whose values are used to calculate a summary.
+* [`FooterColumnName`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.FooterColumnName): Specifies a column under which to display the summary value.
+* [`Name`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.Name): Specifies the summary item’s name.
+* [`SummaryType`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.SummaryType): Specifies the summary function type.
+* [`ValueDisplayFormat`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.ValueDisplayFormat): Specifies the display format for the summary value.
+* [`Visible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.Visible): Specifies whether a summary item is visible.
+* [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+* [`Equals(Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object%29): Determines whether the specified object is equal to the current object.
+* [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Serves as the default hash function.
+* [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+* [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+* [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+* [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string that represents the current object.
+
+
+## API Reference | DxGridSummaryItem 
+- [DxGridSummaryItem Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem)
+* [`DxGridSummaryItem()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.-ctor): Initializes a new instance of the [`DxGridSummaryItem`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem) class.
+* [`DisplayText`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.DisplayText): Specifies [`display text pattern`](https://docs.devexpress.com/Blazor/404278/components/grid/appearance-customization/display-text) for the summary item. A display text string can include static text and placeholders for summary value and column caption.
+* [`FieldName`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.FieldName): Specifies a data field whose values are used to calculate a summary.
+* [`FooterColumnName`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.FooterColumnName): Specifies a column under which to display the summary value.
+* [`Name`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.Name): Specifies the summary item’s name.
+* [`SummaryType`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.SummaryType): Specifies the summary function type.
+* [`ValueDisplayFormat`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.ValueDisplayFormat): Specifies the display format for the summary value.
+* [`Visible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridSummaryItem.Visible): Specifies whether a summary item is visible.
+* [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+* [`Equals(Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object%29): Determines whether the specified object is equal to the current object.
+* [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Serves as the default hash function.
+* [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+* [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+* [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+* [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string that represents the current object.
+
+
+## API Reference | GridPersistentLayout Class
+- [GridPersistentLayout Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayout)
+* [`GridPersistentLayout()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayout.-ctor): Initializes a new instance of the [`GridPersistentLayout`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayout) class.
+* [`Columns`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayout.Columns): Specifies a collection of objects that store Grid column layouts.
+* [`FilterCriteria`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayout.FilterCriteria): A concatenation of all column filter criteria with the `AND` operator.
+* [`PageIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayout.PageIndex): Specifies the active page index.
+* [`PageSize`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayout.PageSize): Specifies the maximum number of rows displayed on a page.
+* [`SearchText`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayout.SearchText): Specifies the text that the Grid uses to filter and highlight data.
+* [`ShowAllRows`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayout.ShowAllRows): Specifies whether the Grid displays all rows on one page.
+* [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+* [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+* [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+* [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+
+
+## API Reference | GridPersistentLayoutColumn Class
+- [GridPersistentLayoutColumn Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn)
+* [`GridPersistentLayoutColumn()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn.-ctor): Initializes a new instance of the [`GridPersistentLayoutColumn`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn) class.
+* [`ColumnType`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn.ColumnType): Specifies the processed column’s type.
+* [`FieldName`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn.FieldName): Specifies a data field that supplies column values.
+* [`GroupIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn.GroupIndex): Specifies the column’s index among [grouped columns](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.ShowGroupPanel).
+* [`SortIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn.SortIndex): Specifies the column’s index among [sorted](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.AllowSort) columns.
+* [`SortOrder`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn.SortOrder): Specifies the column’s [sort](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridDataColumn.AllowSort) order.
+* [`Visible`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn.Visible): Specifies whether the column is visible.
+* [`VisibleIndex`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn.VisibleIndex): Specifies a column’s position among other columns.
+* [`Width`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridPersistentLayoutColumn.Width): Specifies the column’s width.
+* [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+* [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+* [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+* [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+
+
+## API Reference | GridCsvExportOptions Class
+- [GridCsvExportOptions Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridCsvExportOptions)
+- [`GridCsvExportOptions()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridCsvExportOptions.-ctor): Initializes a new instance of the [`GridCsvExportOptions`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridCsvExportOptions) class.
+* [`AddEncodingPreamble`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridCsvExportOptions.AddEncodingPreamble): Specifies whether to include the encoding preamble at the beginning of the exported CSV file.
+* [`CustomizeCell`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.CustomizeCell): Allows you to customize a cell in the exported file.
+* [`DocumentCulture`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.DocumentCulture): Specifies the exported document’s culture that defines numeric and date-time data formatting settings.
+* [`EncodeExecutableContent`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridCsvExportOptions.EncodeExecutableContent): Specifies whether to enclose potentially dangerous content in quotation marks when it is exported to a CSV file.
+* [`Encoding`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridCsvExportOptions.Encoding): Specifies the encoding of the exported CSV file.
+* [`ExportDisplayText`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.ExportDisplayText): Indicates whether the Grid exports cell values in the same format they are presented in the grid.
+* [`ExportSelectedRowsOnly`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.ExportSelectedRowsOnly): Specifies if the grid exports only selected rows.
+* [`QuoteStringsWithSeparators`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridCsvExportOptions.QuoteStringsWithSeparators): Specifies whether a value that contains separators is enclosed in quotation marks.
+* [`RowExporting`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.RowExporting): Fires before a row is exported and allows you to cancel the action.
+* [`Separator`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridCsvExportOptions.Separator): Specifies a character sequence that separates values in the exported CSV file.
+* [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+* [`Equals(Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object%29): Determines whether the specified object is equal to the current object.
+* [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Serves as the default hash function.
+* [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+* [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+* [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+* [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string that represents the current object.
+
+
+## API Reference | GridPdfExportOptions Class 
+- [GridXlExportOptions Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions)
+* [`GridXlExportOptions()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.-ctor): Initializes a new instance of the [`GridXlExportOptions`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions) class.
+* [`CalcTotalSummaryOnCompositeRange`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CalcTotalSummaryOnCompositeRange): Specifies whether a [total summary](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.TotalSummary) exported as the `SUBTOTAL` function that excludes references to cells with group summary values.
+* [`CountBlankCellsInSummary`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CountBlankCellsInSummary): Specifies whether the Count summary function takes blank cells into account when exporting data in Excel formats.
+* [`CustomizeCell`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.CustomizeCell): Allows you to customize a cell in the exported file.
+* [`CustomizeColumn`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CustomizeColumn): Allows you to customize an individual column in the exported document.
+* [`CustomizeSheet`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CustomizeSheet): Allows you to customize sheet settings in the exported document.
+* [`CustomizeSheetFooter`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CustomizeSheetFooter): Allows you to add rows below grid content in the output document.
+* [`CustomizeSheetHeader`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CustomizeSheetHeader): Allows you to add rows above grid content in the output document.
+* [`DocumentCulture`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.DocumentCulture): Specifies the exported document’s culture that defines numeric and date-time data formatting settings.
+* [`DocumentOptions`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.DocumentOptions): Specifies detailed information applied to the resulting document.
+* [`EncryptionOptions`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.EncryptionOptions): Contains encryption options applied to the output document.
+* [`ExportColumnHeaders`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ExportColumnHeaders): Specifies whether the grid exports column headers.
+* [`ExportDisplayText`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.ExportDisplayText): Indicates whether the Grid exports cell values in the same format they are presented in the grid.
+* [`ExportGroupSummaries`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ExportGroupSummaries): Specifies whether the grid exports [group footer summaries](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GroupSummary).
+* [`ExportSelectedRowsOnly`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.ExportSelectedRowsOnly): Specifies if the grid exports only selected rows.
+* [`ExportTotalSummaries`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ExportTotalSummaries): Specifies whether the grid exports [total summaries](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.TotalSummary).
+* [`ExportUnboundExpressionAsFunction`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ExportUnboundExpressionAsFunction): Specifies whether the grid exports an unbound column expression as a function or as a result value.
+* [`GroupExportMode`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.GroupExportMode): Specifies how the grid exports group rows.
+* [`RowExporting`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.RowExporting): Fires before a row is exported and allows you to cancel the action.
+* [`SheetName`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.SheetName): Specifies the name of the sheet in the exported document.
+* [`ShowHeaderBands`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ShowHeaderBands): Specifies whether the grid exports [header bands](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridBandColumn).
+* [`SuppressEmptyStrings`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.SuppressEmptyStrings): Specifies whether the grid export empty strings as blank cells in Excel formats.
+* [`SuppressMaxColumnCountError`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.SuppressMaxColumnCountError): Specifies whether to suppress the exception thrown when exporting more than 256 columns in an XLS file or more than 16,384 columns in an XLSX file.
+* [`SuppressMaxRowCountError`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.SuppressMaxRowCountError): Specifies whether to suppress the exception thrown when exporting more than 65,536 rows in an XLS file or more than 1,048,576 rows in an XLSX file.
+* [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+* [`Equals(Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object%29): Determines whether the specified object is equal to the current object.
+* [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Serves as the default hash function.
+* [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+* [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+* [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+* [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string that represents the current object.
+
+## API Reference | GridXlExportOptions Class
+- [GridXlExportOptions Class](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions)
+* [`GridXlExportOptions()`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.-ctor): Initializes a new instance of the [`GridXlExportOptions`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions) class.
+* [`CalcTotalSummaryOnCompositeRange`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CalcTotalSummaryOnCompositeRange): Specifies whether a [total summary](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.TotalSummary) exported as the `SUBTOTAL` function that excludes references to cells with group summary values.
+* [`CountBlankCellsInSummary`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CountBlankCellsInSummary): Specifies whether the Count summary function takes blank cells into account when exporting data in Excel formats.
+* [`CustomizeCell`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.CustomizeCell): Allows you to customize a cell in the exported file.
+* [`CustomizeColumn`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CustomizeColumn): Allows you to customize an individual column in the exported document.
+* [`CustomizeSheet`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CustomizeSheet): Allows you to customize sheet settings in the exported document.
+* [`CustomizeSheetFooter`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CustomizeSheetFooter): Allows you to add rows below grid content in the output document.
+* [`CustomizeSheetHeader`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.CustomizeSheetHeader): Allows you to add rows above grid content in the output document.
+* [`DocumentCulture`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.DocumentCulture): Specifies the exported document’s culture that defines numeric and date-time data formatting settings.
+* [`DocumentOptions`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.DocumentOptions): Specifies detailed information applied to the resulting document.
+* [`EncryptionOptions`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.EncryptionOptions): Contains encryption options applied to the output document.
+* [`ExportColumnHeaders`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ExportColumnHeaders): Specifies whether the grid exports column headers.
+* [`ExportDisplayText`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.ExportDisplayText): Indicates whether the Grid exports cell values in the same format they are presented in the grid.
+* [`ExportGroupSummaries`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ExportGroupSummaries): Specifies whether the grid exports [group footer summaries](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.GroupSummary).
+* [`ExportSelectedRowsOnly`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.ExportSelectedRowsOnly): Specifies if the grid exports only selected rows.
+* [`ExportTotalSummaries`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ExportTotalSummaries): Specifies whether the grid exports [total summaries](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGrid.TotalSummary).
+* [`ExportUnboundExpressionAsFunction`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ExportUnboundExpressionAsFunction): Specifies whether the grid exports an unbound column expression as a function or as a result value.
+* [`GroupExportMode`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.GroupExportMode): Specifies how the grid exports group rows.
+* [`RowExporting`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridExportOptions.RowExporting): Fires before a row is exported and allows you to cancel the action.
+* [`SheetName`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.SheetName): Specifies the name of the sheet in the exported document.
+* [`ShowHeaderBands`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.ShowHeaderBands): Specifies whether the grid exports [header bands](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridBandColumn).
+* [`SuppressEmptyStrings`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.SuppressEmptyStrings): Specifies whether the grid export empty strings as blank cells in Excel formats.
+* [`SuppressMaxColumnCountError`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.SuppressMaxColumnCountError): Specifies whether to suppress the exception thrown when exporting more than 256 columns in an XLS file or more than 16,384 columns in an XLSX file.
+* [`SuppressMaxRowCountError`](https://docs.devexpress.com/Blazor/DevExpress.Blazor.GridXlExportOptions.SuppressMaxRowCountError): Specifies whether to suppress the exception thrown when exporting more than 65,536 rows in an XLS file or more than 1,048,576 rows in an XLSX file.
+* [`Equals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object-system-object%29) (static): Determines whether the specified object instances are considered equal.
+* [`Equals(Object)`](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals%28system-object%29): Determines whether the specified object is equal to the current object.
+* [`GetHashCode()`](https://learn.microsoft.com/dotnet/api/system.object.gethashcode#system-object-gethashcode): Serves as the default hash function.
+* [`GetType()`](https://learn.microsoft.com/dotnet/api/system.object.gettype#system-object-gettype): Gets the [`Type`](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.
+* [`MemberwiseClone()`](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone#system-object-memberwiseclone) (protected): Creates a shallow copy of the current [`Object`](https://learn.microsoft.com/dotnet/api/system.object).
+* [`ReferenceEquals(Object, Object)`](https://learn.microsoft.com/dotnet/api/system.object.referenceequals#system-object-referenceequals%28system-object-system-object%29) (static): Determines whether the specified [`Object`](https://learn.microsoft.com/dotnet/api/system.object) instances are the same instance.
+* [`ToString()`](https://learn.microsoft.com/dotnet/api/system.object.tostring#system-object-tostring): Returns a string that represents the current object.
