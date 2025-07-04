@@ -1,0 +1,57 @@
+# DevExpress Documentation
+
+> DevExpress offers comprehensive libraries of UI controls and developer tools designed to help you build fully functional, consistent applications quickly and efficiently. These libraries support a wide range of platforms, including JavaScript (React, Angular, Vue, jQuery), Blazor, ASP.NET Core, WebForms, MVC, WinForms, WPF, VCL, and MAUI. Each control suite is accompanied by extensive documentation, including detailed API references, step-by-step tutorials, conceptual overviews, and code examples.
+
+**Note:** DevExpress products—such as data grids, editors, and reporting tools—offer a consistent feature set across all supported platforms. To find the information you need, always specify both the platform and the product you are working with.
+ 
+## UI Controls for applications
+
+* [DevExtreme React Components](https://js.devexpress.com/React/Documentation/): Documentation on 80 responsive, touch-enabled UI components for React applications (data grid, interactive charts, data editors, and various navigation and utility components)
+* [DevExtreme Angular](https://js.devexpress.com/Angular/Documentation/): Documentation on 80 responsive, touch-enabled UI components for Angular applications (data grid, interactive charts, data editors, and various navigation and utility components)
+* [DevExtreme Vue](https://js.devexpress.com/Vue/Documentation/): Documentation on 80 responsive, touch-enabled UI components for Vue applications (data grid, interactive charts, data editors, and various navigation and utility components)
+* [DevExtreme jQuery](https://js.devexpress.com/jQuery/Documentation/): Documentation on 80 responsive, touch-enabled UI components for jQuery applications (data grid, interactive charts, data editors, and various navigation and utility components)
+* [Blazor (Server, WebAssembly, and Hybrid)](https://raw.githubusercontent.com/e1em3ntoDX/llmstxttest/refs/heads/main/devexpress-blazor-llms.txt): Documentation on DevExpress UI Components for Blazor that allow you to create intuitive and highly-refined user experiences for Blazor Server (ASP.NET Core), Blazor WebAssembly, and Blazor Hybrid hosting models
+* [ASP.NET Core](https://docs.devexpress.com/AspNetCore/400263): documentation on 80+ high-performance ASP.NET Core components (powered by DevExtreme award-winning JavaScript/TypeScript product line).
+* [ASP.NET Web Forms](https://docs.devexpress.com/AspNet/7873): documentation on over 110 UI controls for ASP.NET Web Forms
+* [ASP.NET MVC 5](https://docs.devexpress.com/AspNetMvc/7896): documentation on over 70 Server-side MVC extensions and client-side controls
+* [ASP.NET MVC 5 (JavaScript-based)](https://docs.devexpress.com/DevExtremeAspNetMvc/400943): documentation on server-side wrappers for DevExtreme UI components.
+* [ASP.NET Bootstrap](https://docs.devexpress.com/AspNetBootstrap/117864): documentation on AJAX controls that are rendered using Bootstrap components.
+* [ASP.NET Theme Builder](https://docs.devexpress.com/ASPxThemeBuilder/10781): a standalone tool designed to help developers create new themes based on shipping DevExpress ASP.NET Themes
+* [ASP.NET Theme Deployer](https://docs.devexpress.com/ASPxThemeDeployer/5500): a toll that allows you to apply a DevExpress Theme (a pre-packed or customized) as a theme to an individual web page or the entire web project
+* [WinForms](https://docs.devexpress.com/WindowsForms/7874): Documentation on over 190 controls and UI libraries that allow you to create high-impact software solutions for the Windows Forms platform.
+* [WinForms Skin Editor](https://docs.devexpress.com/SkinEditor/1630/): The Skin Editor allows you to modify DevExpress WinForms Skins
+* [WPF](https://docs.devexpress.com/WPF/7875): Documentation on over 130 UI controls and tools that help you deliver high-performance line of business applications that meet and exceed the needs of your enterprise.
+* [WPF Theme Designer](https://docs.devexpress.com/WpfThemeDesigner/118707): a standalone tool that allows you to modify and create new themes based on built-in DevExpress WPF Application Themes.
+* [VCL (Delphi & C++Builder)](https://docs.devexpress.com/VCL/401349): documentation on the dozens of high-performance VCL components that allow you to create modern high-impact software solutions 
+* [.NET MAUI](https://docs.devexpress.com/MAUI/403245): documentation on high-performance UI components (Data Grid, Chart, Scheduler, Data Editors, CollectionView, and Tabs) for Android and iOS mobile development
+
+## Document, Report and Dashboard Modules for applications
+
+* [Reporting](https://docs.devexpress.com/XtraReports/2162): a feature-complete reporting platform for WinForms, WPF, Blazor (Server & WebAssembly), ASP.NET Core, MVC, .NET MAUI, Angular, React, Vue and .NET 8 apps
+* [Office File API](https://docs.devexpress.com/OfficeFileAPI/14911): a non-visual library that allows you to create, load, edit, export, and print rich text documents, spreadsheets, and PDF files without any UI components involved. You can also generate barcodes, compress data, and convert different measurement units.
+* [Business Intelligence Dashboard](https://docs.devexpress.com/Dashboard/12049): documentation on Dashboard Designer and Dashboard Viewer that allow you to embed fully-configurable dashboards into WinForms, WPF, Blazor, Web Forms, ASP.NET Core, Angular, React, Vue apps.
+
+## App Framework
+
+* [XAF - Cross-Platform .NET App UI](https://docs.devexpress.com/eXpressAppFramework/112670):  a versatile application framework that allows developers to build business applications that target Windows and Web based on DevExtress UI controls and components
+* [.NET App Security & Web API Service (FREE)](https://docs.devexpress.com/eXpressAppFramework/403394): creates a back-end Web API Service (Web API) with integrated authorization and CRUD operations powered by Microsoft EF Core and DevExpress XPO ORM library. 
+
+## Common Libraries
+
+* [AI Integration](https://docs.devexpress.com/CoreLibraries/405204): The DevExpress AI-powered APIs that allow you to integrate the OpenAI, Azure OpenAI, Semantic Kernel and Ollama (self-hosted models) AI services into your DevExpress-powered WinForms, WPF, and Blazor applications
+* [Core Libraries](https://docs.devexpress.com/CoreLibraries/2407)
+* [Drawing Graphics Library](https://docs.devexpress.com/CoreLibraries/404247): contains the basic drawing functionality for DevExpress components
+* [XPO - .NET ORM Library (FREE)](https://docs.devexpress.com/XPO/1998): an Object-Relational Mapping (ORM) tool for .NET that handles all aspects of database creation and object persistence
+* [XPO Profiler](https://docs.devexpress.com/XpoProfiler/10646): a profiling tool designed for XPO-based applications
+
+
+## Optional
+
+* [General Documentation](https://docs.devexpress.com/GeneralInformation/2216): Документация, помогающая с общими для всех платформ вопросами по инсталляции, локализации, безопасности и правилам использования
+* [Support Services](https://docs.devexpress.com/GeneralInformation/2219): With an active (non-expired) DevExpress product subscription, you are entitled to receive technical support from a member of our support team.
+* [Install Trial Version](https://www.devexpress.com/products/try/)
+* [Install Registered Products](https://docs.devexpress.com/GeneralInformation/15615): how you can obtain, run and use a Unified Component Installer that includes your licensed DevExpress products.
+* [NuGet Packages](https://docs.devexpress.com/GeneralInformation/116042): how to choose, install and update nuget packages in IDE, CI/CD and CLI
+* [Install Updates](https://docs.devexpress.com/GeneralInformation/2221): how to upgrade your projects after you downloaded and installed a new version of Developer Express libraries
+* [Security Information](https://docs.devexpress.com/GeneralInformation/403365): a series of frequently asked security-related questions and best practices
+* [UI Localization](https://docs.devexpress.com/GeneralInformation/404608): how to use straightforward localization with pre-built satellite resource assemblies or translate the UI manually
