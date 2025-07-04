@@ -1,0 +1,166 @@
+# Blazor DevExpress Documentation
+
+> Documentation for **DevExpress UI Components for Blazor**. These components enable you to create intuitive, high-performance user experiences for **Blazor Server (ASP.NET Core)**, **Blazor WebAssembly**, and **Blazor Hybrid** hosting modes.
+
+Blazor is one of several platforms supported by DevExpress. You can find documentation for your target platform here: [https://docs.devexpress.com/llms.txt](https://docs.devexpress.com/llms.txt)
+
+
+## Get Started with DevExpress Blazor Components
+
+- [Prerequisites](https://docs.devexpress.com/Blazor/401055)
+- [Supported Browsers](https://docs.devexpress.com/Blazor/401588)
+- [Get Started](https://docs.devexpress.com/Blazor/401057)
+- [Install Components and Project Templates](https://docs.devexpress.com/Blazor/402179)
+- [Create a Blazor Web App Project](https://docs.devexpress.com/Blazor/401988)
+- [Create a Blazor Hybrid Project](https://docs.devexpress.com/Blazor/404118)
+- [Set Up NuGet Packages](https://docs.devexpress.com/Blazor/401979)
+- [Register DevExpress Resources](https://docs.devexpress.com/Blazor/401986)
+- [Add Components to the Application](https://docs.devexpress.com/Blazor/404987)
+- [Enable Interactive Render Mode](https://docs.devexpress.com/Blazor/405079)
+- [Template Kit](https://docs.devexpress.com/Blazor/405308)
+- [Command Line Interface](https://docs.devexpress.com/Blazor/405457)
+
+## Common Concepts
+
+- [Two-Way Data Binding](https://docs.devexpress.com/Blazor/402330)
+- [Update Data in Data-Bound Components](https://docs.devexpress.com/Blazor/403160)
+- [Bind Components to Data with Entity Framework Core](https://docs.devexpress.com/Blazor/403167)
+- [Accessibility](https://docs.devexpress.com/Blazor/404749)
+- [Adaptivity](https://docs.devexpress.com/Blazor/405212)
+- [Localization](https://docs.devexpress.com/Blazor/401564)
+- [Optimize Performance of a Blazor WASM Application](https://docs.devexpress.com/Blazor/404490)
+- [Reduce Size of a Blazor WASM Application](https://docs.devexpress.com/Blazor/404491)
+- [Reuse and Customize Components](https://docs.devexpress.com/Blazor/401753)
+- [Redistribution and Deployment](https://docs.devexpress.com/Blazor/401758)
+- [Test Components with bUnit](https://docs.devexpress.com/Blazor/404603)
+- [Add Components to the Toolbox](https://docs.devexpress.com/Blazor/403118)
+- [AI-powered Extensions](https://docs.devexpress.com/Blazor/405228)
+- [Styling and Themes](https://docs.devexpress.com/Blazor/404821)
+- [Themes](https://docs.devexpress.com/Blazor/401523)
+- [DevExpress Theme Customization](https://docs.devexpress.com/Blazor/404360)
+- [UI Kits on Figma](https://docs.devexpress.com/Blazor/404706)
+- [CSS Classes](https://docs.devexpress.com/Blazor/401740)
+- [CSS Isolation](https://docs.devexpress.com/Blazor/404361)
+- [Icons](https://docs.devexpress.com/Blazor/401749)
+- [Size Modes](https://docs.devexpress.com/Blazor/401784)
+- [Security Considerations](https://docs.devexpress.com/Blazor/404572)
+- [Content Security Policy](https://docs.devexpress.com/Blazor/403487)
+- [Validate User Input](https://docs.devexpress.com/Blazor/404263)
+- [Prevent Cross-Site Scripting Attacks](https://docs.devexpress.com/Blazor/404579)
+
+
+## Data Management Components
+- [Grid](https://raw.githubusercontent.com/e1em3ntoDX/llmstxttest/refs/heads/main/blazor-grid-llms.txt)
+- [TreeList](https://docs.devexpress.com/Blazor/404942)
+
+## AI Integration Components
+- [AI Chat](https://docs.devexpress.com/Blazor/405290)
+
+## Data Visualization Components
+- [Bar Gauge](https://docs.devexpress.com/Blazor/404946)
+- [Chart](https://docs.devexpress.com/Blazor/401180)
+- [Dashboard](https://docs.devexpress.com/Blazor/403103)
+- [Map](https://docs.devexpress.com/Blazor/404947)
+- [Pivot Grid](https://docs.devexpress.com/Blazor/401113)
+- Pivot Table (CTP)
+- [Range Selector](https://docs.devexpress.com/Blazor/405266)
+- [Sankey](https://docs.devexpress.com/Blazor/405086)
+- [Sparkline](https://docs.devexpress.com/Blazor/404945)
+
+## Data Editors 
+- [Calendar](https://docs.devexpress.com/Blazor/405105)
+- [CheckBox](https://docs.devexpress.com/Blazor/405113)
+- [Color Palette](https://docs.devexpress.com/Blazor/405229)
+- [ComboBox](https://docs.devexpress.com/Blazor/405075)
+- [Date Edit](https://docs.devexpress.com/Blazor/405096)
+- [Date Range Picker](https://docs.devexpress.com/Blazor/405111)
+- [Drop-Down Box](https://docs.devexpress.com/Blazor/405114)
+- [List Box](https://docs.devexpress.com/Blazor/405076)
+- [Masked Input](https://docs.devexpress.com/Blazor/405118)
+- [Memo](https://docs.devexpress.com/Blazor/405115)
+- [Radio](https://docs.devexpress.com/Blazor/405094)
+- [Radio Group](https://docs.devexpress.com/Blazor/405095)
+- [Search Box](https://docs.devexpress.com/Blazor/405089)
+- [Spin Edit](https://docs.devexpress.com/Blazor/405116)
+- [TagBox](https://docs.devexpress.com/Blazor/405077)
+- [Text Box](https://docs.devexpress.com/Blazor/405117)
+- [TimeEdit](https://docs.devexpress.com/Blazor/405112)
+
+## Dialogs and Windows
+- [DropDown](https://docs.devexpress.com/Blazor/405065)
+- [Flyout](https://docs.devexpress.com/Blazor/405066)
+- [Message Box](https://docs.devexpress.com/Blazor/405289)
+- [Popup](https://docs.devexpress.com/Blazor/405067)
+- [Toast Notification](https://docs.devexpress.com/Blazor/405068)
+- [Window](https://docs.devexpress.com/Blazor/405069)
+- [Confirmation Dialog Based on Message Box](https://docs.devexpress.com/Blazor/404497)
+
+## File Management Components
+
+- [File Management](https://docs.devexpress.com/Blazor/401625)
+- [File Input](https://docs.devexpress.com/Blazor/405216)
+- [Upload](https://docs.devexpress.com/Blazor/405217)
+
+## File Viewers & Editors 
+
+- [HTML Editor](https://docs.devexpress.com/Blazor/404948)
+- [PDF Viewer](https://docs.devexpress.com/Blazor/404990)
+- [Rich Text Editor](https://docs.devexpress.com/Blazor/401891)
+
+## Layout Components
+- [Carousel](https://docs.devexpress.com/Blazor/405183)
+- [Drawer](https://docs.devexpress.com/Blazor/404362)
+- [Form Layout](https://docs.devexpress.com/Blazor/405059)
+- [Grid Layout](https://docs.devexpress.com/Blazor/405071)
+- [Layout Breakpoint](https://docs.devexpress.com/Blazor/405072)
+- [Splitter](https://docs.devexpress.com/Blazor/405287)
+- [Stack Layout](https://docs.devexpress.com/Blazor/405073)
+- [Tabs](https://docs.devexpress.com/Blazor/405074)
+
+## Navigation Components
+- [Accordion](https://docs.devexpress.com/Blazor/401181)
+- [Context Menu](https://docs.devexpress.com/Blazor/405060)
+- [Menu](https://docs.devexpress.com/Blazor/405062)
+- [Ribbon](https://docs.devexpress.com/Blazor/405288)
+- [TreeView](https://docs.devexpress.com/Blazor/405061)
+- [Toolbar](https://docs.devexpress.com/Blazor/405063)
+
+
+## Reporting Components
+- [Reports](https://docs.devexpress.com/Blazor/401706)
+
+
+## Scheduling Components
+- [Scheduler](https://docs.devexpress.com/Blazor/401179)
+
+## Utility Controls
+- [Button](https://docs.devexpress.com/Blazor/405052)
+- [Drop‑Down Button](https://docs.devexpress.com/Blazor/405171)
+- [Split Button](https://docs.devexpress.com/Blazor/405173)
+- [Button Group](https://docs.devexpress.com/Blazor/405195)
+- [Loading Panel](https://docs.devexpress.com/Blazor/405053)
+- [Pager](https://docs.devexpress.com/Blazor/405054)
+- [Progress Bar](https://docs.devexpress.com/Blazor/405055)
+- [Wait Indicator](https://docs.devexpress.com/Blazor/405056)
+
+
+## Demos and Examples
+
+- [Demos](https://docs.devexpress.com/Blazor/401058)
+- [Examples](https://docs.devexpress.com/Blazor/404359)
+- [Videos](https://docs.devexpress.com/Blazor/401056)
+
+## Optional
+
+- [Troubleshoot Performance‑Related Issues](https://docs.devexpress.com/Blazor/405250)
+- [Failed to Load Resource](https://docs.devexpress.com/Blazor/403267)
+- ['dx‑blazor.js File is Not Found' When a Reverse Proxy is Used](https://docs.devexpress.com/Blazor/403268)
+- [Could Not Find 'X' in 'window.DxBlazor'](https://docs.devexpress.com/Blazor/403266)
+- [Blazor Components are Rendered Incorrectly](https://docs.devexpress.com/Blazor/403286)
+- [Cannot pass the parameter 'X' to component 'Y' with rendermode 'InteractiveServerRenderMode'](https://docs.devexpress.com/Blazor/405003)
+- [An Unhandled Exception on the Current Circuit](https://docs.devexpress.com/Blazor/403270)
+- [The Type Arguments Cannot be Inferred from Usage](https://docs.devexpress.com/Blazor/403271)
+- [The child content element 'ChildContent' of component 'X' uses the same parameter name ('context') ...](https://docs.devexpress.com/Blazor/403276)
+- [The component parameter 'ValueChanged' is used two or more times for this component...](https://docs.devexpress.com/Blazor/403279)
+- [Duplicate Key Values in the If/Else Statement](https://docs.devexpress.com/Blazor/403280)
+- [There Are Blazor Component Features … That Do Not Work in My Application](https://docs.devexpress.com/Blazor/403281)
