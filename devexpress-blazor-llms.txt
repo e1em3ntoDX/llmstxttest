@@ -2,7 +2,7 @@
 
 > Documentation for **DevExpress UI Components for Blazor**. These components enable you to create intuitive, high-performance user experiences for **Blazor Server (ASP.NET Core)**, **Blazor WebAssembly**, and **Blazor Hybrid** hosting modes.
 
-Blazor is one of several platforms supported by DevExpress. You can find documentation for your target platform here: [https://docs.devexpress.com/llms.txt](https://docs.devexpress.com/llms.txt)
+Blazor is one of several platforms supported by DevExpress. You can find documentation for your target platform here: [https://raw.githubusercontent.com/e1em3ntoDX/llmstxttest/refs/heads/main/devexpress-llms.txt](https://raw.githubusercontent.com/e1em3ntoDX/llmstxttest/refs/heads/main/devexpress-llms.txt)
 
 
 ## Get Started with DevExpress Blazor Components
