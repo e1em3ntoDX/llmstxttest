@@ -63,7 +63,7 @@ Blazor is one of several platforms supported by DevExpress. You can find documen
 - [Map](https://docs.devexpress.com/Blazor/404947)
 - [Pivot Grid](https://docs.devexpress.com/Blazor/401113)
 - Pivot Table (CTP)
-- [Range Selector](https://docs.devexpress.com/Blazor/405266)
+- [Range Selector](https://raw.githubusercontent.com/e1em3ntoDX/llmstxttest/refs/heads/main/blazor-range-selector.txt)
 - [Sankey](https://docs.devexpress.com/Blazor/405086)
 - [Sparkline](https://docs.devexpress.com/Blazor/404945)
 
