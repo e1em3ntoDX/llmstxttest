@@ -6,7 +6,7 @@ To get started, refer to the main documentation page: [Blazor Range Selector](ht
 
 The class that implements the DevExpress Blazor Grid is documented here: [DevExpress DxRangeSelector component](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxRangeSelector).
 
-The Range Selector is one of many available Blazor components. You can browse the full component list and instructions on how to build Blazor allocations based on DevExpress Blazor Components here: https://docs.devexpress.com/Blazor/llms.txt
+The Range Selector is one of many available Blazor components. You can browse the full component list and instructions on how to build Blazor allocations based on DevExpress Blazor Components here: https://raw.githubusercontent.com/e1em3ntoDX/llmstxttest/refs/heads/main/devexpress-blazor-llms.txt
 
 ## Get Started
 
